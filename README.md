@@ -21,9 +21,9 @@ Hey there! I'm **Abhishekh Kumar**, a Full-Stack Web Developer passionate about 
 
 💻 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js, GSAP  
 ⚙️ **Backend:** Node.js, Express.js, NextAuth  
-🗄️ **Databases:** MongoDB, MySQL  
+🗄️ **Databases:** MongoDB
 💳 **Payment Gateway:** Razorpay  
-☁️ **DevOps & Hosting:** Vercel, Docker, AWS  
+☁️ **DevOps & Hosting:** Vercel
 📌 **Other Skills:** API Integration, Authentication, Web Animations, Performance Optimization  
 
 ---
