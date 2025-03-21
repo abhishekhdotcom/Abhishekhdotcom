@@ -19,11 +19,11 @@ Hey there! I'm **Abhishekh Kumar**, a Full-Stack Web Developer passionate about 
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vercel" width="100%" />
 </div>
 
-💻 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js, GSAP  
-⚙️ **Backend:** Node.js, Express.js, NextAuth  
-🗄️ **Databases:** MongoDB
-💳 **Payment Gateway:** Razorpay  
-☁️ **DevOps & Hosting:** Vercel
+💻 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js, GSAP <br/> 
+⚙️ **Backend:** Node.js, Express.js, NextAuth  <br/>
+🗄️ **Databases:** MongoDB <br/>
+💳 **Payment Gateway:** Razorpay  <br/>
+☁️ **DevOps & Hosting:** Vercel <br/>
 📌 **Other Skills:** API Integration, Authentication, Web Animations, Performance Optimization  
 
 ---
