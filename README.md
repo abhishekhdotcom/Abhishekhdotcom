@@ -1,4 +1,4 @@
-<h2 align="center">🚀 Welcome to My Digital Space! 👋</h2>
+<h1 align="center">🚀 Welcome to My Digital Space! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Web+Developer;Passionate+about+Coding+%26+Technology;Building+Scalable+Web+Apps;Lifelong+Learner" alt="Typing animation showcasing skills" />
