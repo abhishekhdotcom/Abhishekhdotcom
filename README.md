@@ -33,7 +33,7 @@ Hi, I'm **Abhishekh Kumar**, a Full-Stack Web Developer dedicated to crafting se
 
 📌 **[GetMeAChai - Crowdfunding Web App](https://github.com/Abhishekhdotcom/GetMeAChai.git)** – A crowdfunding donation platform built with Next.js and Razorpay Payment Gateway  
 🌟 **[Portfolio](https://abhishekhdotcom.github.io/Abhishekh_Portfolio/)** – A personal portfolio showcasing my work, built with HTML, CSS, JavaScript, and Shery.js  
-📱 **[Instagram UI Clone](https://abhishekhdotcom.github.io/instagram-clone/)** – A responsive social media interface clone  
+📱 **[Instagram UI Clone](https://abhishekhdotcom.github.io/Instagram-Clone-App/)** – A responsive social media interface clone  
 📂 **[PDF Merger Web App](https://github.com/Abhishekhdotcom/BlankPdf_PdfMerger.git)** – A tool to merge multiple PDFs effortlessly  
 💸 **[React To-Do Web App](https://github.com/Abhishekhdotcom/React-ToDo-App.git)** – A minimal, efficient task manager built with React  
 ✅ **[To-Do Web App](https://abhishekhdotcom.github.io/To-Do-App/)** – A to-do app using HTML, CSS, and JavaScript, storing data in localStorage  
